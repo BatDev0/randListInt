@@ -1,5 +1,5 @@
 # randListInt
-![Bitbucket](https://bitbucket.org/batman_20082/randlistint/src/master/)
+[Bitbucket](https://bitbucket.org/batman_20082/randlistint/src/master/)
 ![Logo]([https://i.imgur.com/Y8rgVpe.png](https://i.imgur.com/Y8rgVpe.png))
 **© 2019 [TNTSPLASH](www.tntsplash.net)**
 - **randListInt is a python 3 package, that uses randint. To index into a list randomly and get a specific range of numbers. [2,4,6,8] insted of randInt(1,8)**
